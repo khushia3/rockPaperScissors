@@ -1,6 +1,8 @@
 Rock-Paper-Scissors Web App
 This project brings the classic Rock-Paper-Scissors game to life in a dynamic and interactive web application built with front-end technologies. 
 
+DEMO  https://khushia3.github.io/rockPaperScissors/
+
 Engaging Gameplay:
 
 *  Visually Appealing Interface: A clean and user-friendly design with clear hand icons ensures a smooth and intuitive gameplay experience. 
